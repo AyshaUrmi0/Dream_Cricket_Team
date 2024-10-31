@@ -1,0 +1,133 @@
+[
+  {
+    "name": "Tamim Iqbal",
+    "role": "Batsman",
+    "team": "Bangladesh",
+    "batting_style": "Left-Hand-Bat",
+    "price": 1200000,
+    "image": "https://i.ibb.co.com/nsD3X1X/Tamim.jpg",
+    "rating": "5-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Shakib Al Hasan",
+    "role": "All-Rounder",
+    "team": "Bangladesh",
+    "batting_style": "Left-Hand-Bat",
+    "price": 1800000,
+    "image": "https://i.ibb.co.com/BB1mq6s/Sakib.jpg",
+    "rating": "5-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Mushfiqur Rahim",
+    "role": "Wicketkeeper-Batsman",
+    "team": "Bangladesh",
+    "batting_style": "Right-Hand-Bat",
+    "price": 1300000,
+    "image": "https://i.ibb.co.com/KGb6vKz/MushfiqR.jpg",
+    "rating": "4-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Mahmudullah Riyad",
+    "role": "All-Rounder",
+    "team": "Bangladesh",
+    "batting_style": "Right-Hand-Bat",
+    "price": 1000000,
+    "image": "https://i.ibb.co.com/898w488/Mahmudullah-Riyad.jpg",
+    "rating": "4-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Taskin Ahmed",
+    "role": "Bowler",
+    "team": "Bangladesh",
+    "batting_style": "Right-Hand-Bat",
+    "price": 900000,
+    "image": "https://i.ibb.co.com/2s2yBn7/Taskin.jpg",
+    "rating": "3-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Mustafizur Rahman",
+    "role": "Bowler",
+    "team": "Bangladesh",
+    "batting_style": "Left-Hand-Bat",
+    "price": 1100000,
+    "image": "https://i.ibb.co.com/dLHsbWQ/Mustafiz.jpg",
+    "rating": "4-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Soumya Sarkar",
+    "role": "Batsman",
+    "team": "Bangladesh",
+    "batting_style": "Left-Hand-Bat",
+    "price": 800000,
+    "image": "https://i.ibb.co.com/W3K4xQ4/Sommo.jpg",
+    "rating": "3-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Litton Das",
+    "role": "Wicketkeeper-Batsman",
+    "team": "Bangladesh",
+    "batting_style": "Right-Hand-Bat",
+    "price": 950000,
+    "image": "https://i.ibb.co.com/kQMMXfG/Liton.jpg",
+    "rating": "4-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Nazmul Hossain Shanto",
+    "role": "Batsman",
+    "team": "Bangladesh",
+    "batting_style": "Left-Hand-Bat",
+    "price": 700000,
+    "image": "https://i.ibb.co.com/QQCbh3j/Shanto.jpg",
+    "rating": "3-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Mohammad Saifuddin",
+    "role": "All-Rounder",
+    "team": "Bangladesh",
+    "batting_style": "Right-Hand-Bat",
+    "price": 850000,
+    "image": "https://i.ibb.co.com/vdzMkSc/Saif.jpg",
+    "rating": "4-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Shoriful Islam",
+    "role": "Bowler",
+    "team": "Bangladesh",
+    "batting_style": "Right-Hand-Bat",
+    "price": 900000,
+    "image": "https://i.ibb.co.com/ZXJ0p0h/sharif.jpg",
+    "rating": "4-star",
+    "choose_player": "Choose Player"
+  },
+  
+  {
+    "name": "Anamul Haque",
+    "role": "Batsman",
+    "team": "Bangladesh",
+    "batting_style": "Right-Hand-Bat",
+    "price": 750000,
+    "image": "https://i.ibb.co.com/2c3BDQ0/anamul.jpg",
+    "rating": "4-star",
+    "choose_player": "Choose Player"
+  },
+  {
+    "name": "Mohammad Naim",
+    "role": "Batsman",
+    "team": "Bangladesh",
+    "batting_style": "Left-Hand-Bat",
+    "price": 650000,
+    "image": "https://i.ibb.co.com/K2qQxRf/Naim.jpg",
+    "rating": "3-star",
+    "choose_player": "Choose Player"
+  }
+]
